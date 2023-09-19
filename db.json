@@ -1,86 +1,123 @@
 {
+    "videos": [
+        {
+            "titulo": "Scrum Master #Aluratips",
+            "urlvideo": "https://www.youtube.com/embed/hamjv6G5shY?si=kDD8yHkazQj3nBuG",
+            "descripcion": "Scrum viene con vários procesos, reglas e roles. Uno de estos roles es el de Scrum Master, y es de este rol que vamos hablar en el día de hoy.",
+            "categoria": "Gestión",
+            "id": "1"
+           },
+           {
+            "titulo": "¡Domina CSS Flexbox con FlexboxFroggy!",
+            "urlvideo": "https://www.youtube.com/embed/MXPhyN5t0uQ?si=-sdIKrQ-fbTRPk03",
+            "descripcion": "Aprende jugando en este desafío divertido",
+            "categoria": "Diseño web",
+            "id": "2"
+           },
+           {
+            "titulo": "Python para Data Science",
+            "urlvideo": "https://www.youtube.com/embed/JMKZMa0tMhQ?si=h9Oy6x4-vF0VJeWH",
+            "descripcion": "Fases del proceso de analitica de datos: Ingesta, transformacion y consumo de datos.",
+            "categoria": "Datos",
+            "id": "3"
+           },
+           {
+            "titulo": "Banco de datos MySQL",
+            "urlvideo": "https://www.youtube.com/embed/8J0AoPZMVxA?si=CJ8Jb9klASglOMvc",
+            "descripcion": "Información acerca de lo importante que es manejar un banco de datos MySql",
+            "categoria": "Datos",
+            "id": "4"
+           },
+           {
+            "titulo": "¿Qué es Scrum?",
+            "urlvideo": "https://www.youtube.com/embed/TttMvhj4uu4?si=4ZEr2646ecPRGst7",
+            "descripcion": "Aclaración sobre lo que es y para que funciona Scrum en nuestro día a día.",
+            "categoria": "Gestión",
+            "id": "5"
+           },
+           {
+            "titulo": "Como utilizar el Display block, inline, inline-block",
+            "urlvideo": "https://www.youtube.com/embed/AG2QssLpQzI?si=d76hqxxPIXISsAts",
+            "descripcion": "Explica que es la propiedad Display en CSS y algunos de sus valores, te mostrara en código el comportamiento del elemento DIV al utilizar algunos de los valores de la propiedad display como: block, inline y inline block.",
+            "categoria": "Diseño web",
+            "id": "6"
+           },
+           {
+            "titulo": "Domina tu flujo de trabajo con Kanban",
+            "urlvideo": "https://www.youtube.com/embed/ew1mwLviTWY?si=N7m8j2bz1Fza5_5i",
+            "descripcion": "Aprende que es y para qué se utiliza Kanban",
+            "categoria": "Gestión",
+            "id": "7"
+           },
+           {
+            "titulo": "Descomplicando Base de Datos",
+            "urlvideo": "https://www.youtube.com/embed/G1cDRqKuxpg?si=S8H2Zx65QkUIszc2",
+            "descripcion": "¿Qué es base de datos? Neste vídeo Maria Fernanda y Evelyn Reis te guiarán en el camino que debes seguir.",
+            "categoria": "Datos",
+            "id": "8"
+           },
+           {
+            "titulo": "Consejos de CSS FlexBox",
+            "urlvideo": "https://www.youtube.com/embed/EB4vWLzfVcI?si=T7aAcCNyXMuqz1ng",
+            "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas.",
+            "categoria": "Diseño web",
+            "id": "9"
+           },
+           {
+            "titulo": "Box Model y Box sizing",
+            "urlvideo": "https://www.youtube.com/embed/ts9qfCKamKg?si=eTymSXPpwXmnX2TD",
+            "descripcion": "En este Alura+ nuestra instructora front-end, Jeanmarie Quijada, nos ayudará a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web.",
+            "categoria": "Diseño web",
+            "id": "10"
+           },
+           {
+            "titulo": "¿Qué son las Soft Skills?",
+            "urlvideo": "https://www.youtube.com/embed/vhwspfvI52k?si=KOLq_zkfBXwfIFrR",
+            "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+            "categoria": "Gestión",
+            "id": "11"
+           },
+           {
+            "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+            "urlvideo": "https://www.youtube.com/embed/UuAX5azcvDQ?si=R_3f_hktbL3H04FA",
+            "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+            "categoria": "Diseño web",
+            "id": "12"
+           },
+           {
+            "titulo": "¿Cuáles son las soft y hard skills necesarias para trabajar con tecnología?",
+            "urlvideo": "https://www.youtube.com/embed/7lnmW8fB0nM?si=9p8mcUQmY4MUtNEN",
+            "descripcion": "¿Quieres saber cuáles son las Soft Skills más buscadas en el área de tecnología? En este video nuestras invitadas comentan sobre las Soft Skills y Hard Skills necesárias para trabajar con tencología.",
+            "categoria": "Gestión",
+            "id": "13"
+           },
+           {
+            "titulo": "Fundamentos DAX",
+            "urlvideo": "https://www.youtube.com/embed/EWFd8dyGaP0?si=moUpbeXquOk08NUe",
+            "descripcion": "En este video aprenderemos acerca de los fundamentos del lenguaje de dax, y su aplicacion practica. Veremos como trabajar con Dax de una manera sencilla y didactica.",
+            "categoria": "Datos",
+            "id": "14"
+           },
+           {
+            "titulo": "¿Qué es SQL y NoSQL?",
+            "urlvideo": "https://www.youtube.com/embed/cLLKVd5CNLc?si=cR_M0BtGejB7q9sR",
+            "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+            "categoria": "Datos",
+            "id": "15"
+           }
+    ],
     "categorias": [
         {
-            "id": "bienestar",
-            "nombre": "bienestar",
-            "subcategorias": [
-                "higiene",
-                "salud"
-            ]
+            "id": "1",
+            "categoria": "Datos"
         },
         {
-            "id": "comportamiento",
-            "nombre": "comportamiento",
-            "subcategorias": [
-                "entrenamiento",
-                "educacion"
-            ]
-        }
-    ],
-    "posts": [
-        {
-            "id": 1,
-            "title": "Baño en perros",
-            "metadescription": "Utiliza las herramientas ideales para bañar a tu perro",
-            "body": "La mayoría de los perros prefieren saltarse la hora del baño, pero el baño juega un papel importante en la salud del pelaje y la piel de su perro, ya que ayuda a mantenerla limpia y libre de suciedad y parásitos. Tener los productos adecuados puede ayudarlo a sentirse más cómodo.",
-            "categoria": "bienestar",
-            "subcategoria": "higiene"
+            "id": "2",
+            "categoria": "Gestión"
         },
         {
-            "id": 2,
-            "title": "Tu cachorro merece un tapete higiénico",
-            "metadescription": "El baño que tu cachorro merece",
-            "body": "Los tapetes higiénicos son una innovación en el mercado de las mascotas, perfectas para que tu perro haga sus necesidades con comodidad y sin ensuciar la casa. Son productos desechables o lavables que garantizan la comodidad de tu mascota.",
-            "categoria": "bienestar",
-            "subcategoria": "higiene"
-        },
-        {
-            "id": 3,
-            "title": "¿Época de pulgas?",
-            "metadescription": "Es necesario evitar que tus mascotas contraigan estos parásitos",
-            "body": "No es la mordedura, sino la reacción alérgica a ella lo que hace que tu perro sienta comezón. Algunas mascotas son hipersensibles a las pulgas y pueden tener una reacción grave con solo un mordisco. Sin embargo, todas las mascotas experimentarán molestias por las picaduras de pulgas. Entonces, tan pronto como veas rasguños repetidos, sospeche de las pulgas.",
-            "categoria": "bienestar",
-            "subcategoria": "salud"
-        },
-        {
-            "id": 4,
-            "title": "¿Tu mascota está estresada?",
-            "metadescription": "El cambio de rutina puede ser el mayor factor.",
-            "body": "Talvez eres de las personas que le dan atención adicional, pero cuando tienes que ir a la oficina o a realizar alguna actividad lo dejas en tu casa, causandole esa falta de atención que le brindas constantemente, lo ideal es mimarlos en la medida cierta. Debido a la pandemia hemos estado más presentes en nuestro hogar lo cuál puede acostumbrar a tu mascota a estar más tiempo contigo.",
-            "categoria": "comportamiento",
-            "subcategoria": "educacion"
-        },
-        {
-            "id": 5,
-            "title": "¿Cómo entrenar a tu perro para que no tenga miedo?",
-            "metadescription": "La socialización es un grande factor en este aprendizaje.",
-            "body": "Solo se puede enseñar a un perro a dejar de tener miedo aumentando su confianza en sí mismo. Esto significa cambiar la forma en que reacciona su mente en determinadas situaciones y convertir las asociaciones negativas en positivas. Hacer esto requiere mucha paciencia y una serie de exposiciones controladas al evento u objeto temido, pero lo suficientemente lejos como para que el perro no se sienta ansioso.",
-            "categoria": "comportamiento",
-            "subcategoria": "educacion"
-        },
-        {
-            "id": 6,
-            "title": "¿Por qué los gatos ronroñean?",
-            "metadescription": "El ronroneo es una señal de aviso.",
-            "body": "Una cosa que los científicos saben con certeza es que la parte del cerebro del gato que controla las vocalizaciones está muy conectada con la parte del cerebro que controla las emociones del gato. Entonces, lo que el gato está “diciendo” es absolutamente un reflejo de como se siente.",
-            "categoria": "comportamiento",
-            "subcategoria": "entrenamiento"
-        },
-        {
-            "id": 7,
-            "title": "¿Cómo entrenar a tu gato?",
-            "metadescription": "Si, tu puedes entrenar a tu gato y es mucho más fácil de lo que pensabas.",
-            "body": "Puedes utilizar herramientas de entrenamiento para una amplia variedad de animales, un 'clicker' solo costará unos pocos dólares y te ayudará a dar un refuerzo positivo cuando aprendas a entrenar a un gato. (También puedes usar un bolígrafo normal con un botón de click; lo importante es tener un ruido distintivo). La mayoría de los entrenamientos para gatos implican darle a tu gato una golosina que le guste después de un click para marcar el comportamiento deseado.",
-            "categoria": "comportamiento",
-            "subcategoria": "entrenamiento"
-        },
-        {
-            "id": 8,
-            "title": "¿Cómo entrenar a tu rata?",
-            "metadescription": "Si, tu puedes entrenar a tu rata y es mucho más fácil de lo que pensabas.",
-            "body": "Puedes utilizar herramientas de entrenamiento para una amplia variedad de animales, un 'clicker' solo costará unos pocos dólares y te ayudará a dar un refuerzo positivo cuando aprendas a entrenar a un gato. (También puedes usar un bolígrafo normal con un botón de click; lo importante es tener un ruido distintivo). La mayoría de los entrenamientos para gatos implican darle a tu gato una golosina que le guste después de un click para marcar el comportamiento deseado.",
-            "categoria": "comportamiento",
-            "subcategoria": "entrenamiento"
+            "id": "3",
+            "categoria": "Diseño web"
         }
     ]
 }
