@@ -2,105 +2,105 @@
     "videos": [
         {
             "titulo": "Scrum Master #Aluratips",
-            "urlvideo": "https://www.youtube.com/embed/hamjv6G5shY?si=kDD8yHkazQj3nBuG",
+            "urlvideo": "https://www.youtube.com/embed/hamjv6G5shY",
             "descripcion": "Scrum viene con vários procesos, reglas e roles. Uno de estos roles es el de Scrum Master, y es de este rol que vamos hablar en el día de hoy.",
             "categoria": "Gestión",
             "id": "1"
            },
            {
             "titulo": "¡Domina CSS Flexbox con FlexboxFroggy!",
-            "urlvideo": "https://www.youtube.com/embed/MXPhyN5t0uQ?si=-sdIKrQ-fbTRPk03",
+            "urlvideo": "https://www.youtube.com/embed/MXPhyN5t0uQ",
             "descripcion": "Aprende jugando en este desafío divertido",
             "categoria": "Diseño web",
             "id": "2"
            },
            {
             "titulo": "Python para Data Science",
-            "urlvideo": "https://www.youtube.com/embed/JMKZMa0tMhQ?si=h9Oy6x4-vF0VJeWH",
+            "urlvideo": "https://www.youtube.com/embed/JMKZMa0tMhQ",
             "descripcion": "Fases del proceso de analitica de datos: Ingesta, transformacion y consumo de datos.",
             "categoria": "Datos",
             "id": "3"
            },
            {
             "titulo": "Banco de datos MySQL",
-            "urlvideo": "https://www.youtube.com/embed/8J0AoPZMVxA?si=CJ8Jb9klASglOMvc",
+            "urlvideo": "https://www.youtube.com/embed/8J0AoPZMVxA",
             "descripcion": "Información acerca de lo importante que es manejar un banco de datos MySql",
             "categoria": "Datos",
             "id": "4"
            },
            {
             "titulo": "¿Qué es Scrum?",
-            "urlvideo": "https://www.youtube.com/embed/TttMvhj4uu4?si=4ZEr2646ecPRGst7",
+            "urlvideo": "https://www.youtube.com/embed/TttMvhj4uu4",
             "descripcion": "Aclaración sobre lo que es y para que funciona Scrum en nuestro día a día.",
             "categoria": "Gestión",
             "id": "5"
            },
            {
             "titulo": "Como utilizar el Display block, inline, inline-block",
-            "urlvideo": "https://www.youtube.com/embed/AG2QssLpQzI?si=d76hqxxPIXISsAts",
+            "urlvideo": "https://www.youtube.com/embed/AG2QssLpQzI",
             "descripcion": "Explica que es la propiedad Display en CSS y algunos de sus valores, te mostrara en código el comportamiento del elemento DIV al utilizar algunos de los valores de la propiedad display como: block, inline y inline block.",
             "categoria": "Diseño web",
             "id": "6"
            },
            {
             "titulo": "Domina tu flujo de trabajo con Kanban",
-            "urlvideo": "https://www.youtube.com/embed/ew1mwLviTWY?si=N7m8j2bz1Fza5_5i",
+            "urlvideo": "https://www.youtube.com/embed/ew1mwLviTWY",
             "descripcion": "Aprende que es y para qué se utiliza Kanban",
             "categoria": "Gestión",
             "id": "7"
            },
            {
             "titulo": "Descomplicando Base de Datos",
-            "urlvideo": "https://www.youtube.com/embed/G1cDRqKuxpg?si=S8H2Zx65QkUIszc2",
+            "urlvideo": "https://www.youtube.com/embed/G1cDRqKuxpg",
             "descripcion": "¿Qué es base de datos? Neste vídeo Maria Fernanda y Evelyn Reis te guiarán en el camino que debes seguir.",
             "categoria": "Datos",
             "id": "8"
            },
            {
             "titulo": "Consejos de CSS FlexBox",
-            "urlvideo": "https://www.youtube.com/embed/EB4vWLzfVcI?si=T7aAcCNyXMuqz1ng",
+            "urlvideo": "https://www.youtube.com/embed/EB4vWLzfVcI",
             "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas.",
             "categoria": "Diseño web",
             "id": "9"
            },
            {
             "titulo": "Box Model y Box sizing",
-            "urlvideo": "https://www.youtube.com/embed/ts9qfCKamKg?si=eTymSXPpwXmnX2TD",
+            "urlvideo": "https://www.youtube.com/embed/ts9qfCKamKg",
             "descripcion": "En este Alura+ nuestra instructora front-end, Jeanmarie Quijada, nos ayudará a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web.",
             "categoria": "Diseño web",
             "id": "10"
            },
            {
             "titulo": "¿Qué son las Soft Skills?",
-            "urlvideo": "https://www.youtube.com/embed/vhwspfvI52k?si=KOLq_zkfBXwfIFrR",
+            "urlvideo": "https://www.youtube.com/embed/vhwspfvI52k",
             "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
             "categoria": "Gestión",
             "id": "11"
            },
            {
             "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
-            "urlvideo": "https://www.youtube.com/embed/UuAX5azcvDQ?si=R_3f_hktbL3H04FA",
+            "urlvideo": "https://www.youtube.com/embed/UuAX5azcvDQ",
             "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
             "categoria": "Diseño web",
             "id": "12"
            },
            {
             "titulo": "¿Cuáles son las soft y hard skills necesarias para trabajar con tecnología?",
-            "urlvideo": "https://www.youtube.com/embed/7lnmW8fB0nM?si=9p8mcUQmY4MUtNEN",
+            "urlvideo": "https://www.youtube.com/embed/7lnmW8fB0nM",
             "descripcion": "¿Quieres saber cuáles son las Soft Skills más buscadas en el área de tecnología? En este video nuestras invitadas comentan sobre las Soft Skills y Hard Skills necesárias para trabajar con tencología.",
             "categoria": "Gestión",
             "id": "13"
            },
            {
             "titulo": "Fundamentos DAX",
-            "urlvideo": "https://www.youtube.com/embed/EWFd8dyGaP0?si=moUpbeXquOk08NUe",
+            "urlvideo": "https://www.youtube.com/embed/EWFd8dyGaP0",
             "descripcion": "En este video aprenderemos acerca de los fundamentos del lenguaje de dax, y su aplicacion practica. Veremos como trabajar con Dax de una manera sencilla y didactica.",
             "categoria": "Datos",
             "id": "14"
            },
            {
             "titulo": "¿Qué es SQL y NoSQL?",
-            "urlvideo": "https://www.youtube.com/embed/cLLKVd5CNLc?si=cR_M0BtGejB7q9sR",
+            "urlvideo": "https://www.youtube.com/embed/cLLKVd5CNLc",
             "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
             "categoria": "Datos",
             "id": "15"
