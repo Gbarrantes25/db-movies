@@ -109,15 +109,20 @@
     "categorias": [
         {
             "id": "1",
-            "categoria": "Datos"
+            "categoria": "Datos",
+            "color": "#fbd600"
         },
         {
             "id": "2",
-            "categoria": "Gestión"
+            "categoria": "Gestión",
+            "color": "#00fb1e"
+
         },
         {
             "id": "3",
-            "categoria": "Diseño web"
+            "categoria": "Diseño web",
+             "color": "aad3ff"
+
         }
     ]
 }
